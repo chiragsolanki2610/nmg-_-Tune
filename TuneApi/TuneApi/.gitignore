@@ -1,0 +1,25 @@
+# ==========================================
+# C# / .NET Backend Ignores
+# ==========================================
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# ==========================================
+# Next.js / Node.js Frontend Ignores
+# ==========================================
+node_modules/
+.next/
+out/
+build/
+.env*.local
+
+# ==========================================
+# Miscellaneous Ignores
+# ==========================================
+.DS_Store
+Thumbs.db
